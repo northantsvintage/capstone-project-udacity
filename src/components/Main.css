@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  margin-top: 0px;
+}
+
+.bodyClass {
+  background-color: #fff;
+  backface-visibility: visible;
+  height: 100px;
+  
+}
+
+.menuClass {
+  background-color: #999;
+  padding: 15px;
+}
+
+svg {
+  height: 50px;
+  width: 50px;
+}
